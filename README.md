@@ -3,6 +3,7 @@
 
 This repository is for showing how Git and GitHub work
 
+Adding something in master file for rebasing 
 ## Purpose
 
 Introduction
